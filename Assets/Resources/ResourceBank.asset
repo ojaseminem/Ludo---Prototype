@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b603e420538a46059644e0e749681e38, type: 3}
+  m_Name: ResourceBank
+  m_EditorClassIdentifier: 
+  cellsToSpawnPositionData:
+  - {x: -3, y: -18}
+  - {x: -3, y: -15}
+  - {x: -3, y: -12}
+  - {x: -3, y: -9}
+  - {x: -3, y: -6}
+  - {x: -6, y: -3}
+  - {x: -9, y: -3}
+  - {x: -12, y: -3}
+  - {x: -15, y: -3}
+  - {x: -18, y: -3}
+  - {x: -21, y: -3}
+  - {x: -21, y: 0}
+  - {x: -21, y: 3}
+  - {x: -18, y: 3}
+  - {x: -15, y: 3}
+  - {x: -12, y: 3}
+  - {x: -9, y: 3}
+  - {x: -6, y: 3}
+  - {x: -3, y: 6}
+  - {x: -3, y: 9}
+  - {x: -3, y: 12}
+  - {x: -3, y: 15}
+  - {x: -3, y: 18}
+  - {x: -3, y: 21}
+  - {x: 0, y: 21}
+  - {x: 3, y: 21}
+  - {x: 3, y: 18}
+  - {x: 3, y: 15}
+  - {x: 3, y: 12}
+  - {x: 3, y: 9}
+  - {x: 3, y: 6}
+  - {x: 6, y: 3}
+  - {x: 9, y: 3}
+  - {x: 12, y: 3}
+  - {x: 15, y: 3}
+  - {x: 18, y: 3}
+  - {x: 21, y: 3}
+  - {x: 21, y: 0}
+  - {x: 21, y: -3}
+  - {x: 18, y: -3}
+  - {x: 15, y: -3}
+  - {x: 12, y: -3}
+  - {x: 9, y: -3}
+  - {x: 6, y: -3}
+  - {x: 3, y: -6}
+  - {x: 3, y: -9}
+  - {x: 3, y: -12}
+  - {x: 3, y: -15}
+  - {x: 3, y: -18}
+  - {x: 3, y: -21}
+  - {x: 0, y: -21}
+  - {x: -3, y: -21}
+  - {x: 0, y: -18}
+  - {x: 0, y: -15}
+  - {x: 0, y: -12}
+  - {x: 0, y: -9}
+  - {x: 0, y: -6}
+  - {x: -18, y: 0}
+  - {x: -15, y: 0}
+  - {x: -12, y: 0}
+  - {x: -9, y: 0}
+  - {x: -6, y: 0}
+  - {x: 0, y: 18}
+  - {x: 0, y: 15}
+  - {x: 0, y: 12}
+  - {x: 0, y: 9}
+  - {x: 0, y: 6}
+  - {x: 18, y: 0}
+  - {x: 15, y: 0}
+  - {x: 12, y: 0}
+  - {x: 9, y: 0}
+  - {x: 6, y: 0}
+  boardBackground: {fileID: 1106474720322558884, guid: 5e07def1cbe754945aa4118e4daf1aaa,
+    type: 3}
+  homeCellRed: {fileID: -1771013380643990669, guid: 750b3413fe8670e42a99ff3baf868cdb,
+    type: 3}
+  homeCellYellow: {fileID: 1882021025964525080, guid: 21a67847cc3209346b146be6606ddd68,
+    type: 3}
+  homeCellGreen: {fileID: -5289917145001720291, guid: e1ce04943a1d1774485823384597d3f4,
+    type: 3}
+  homeCellBlue: {fileID: -6882890425434459974, guid: 8c38484c5ec41b1489c6e6c343368c5a,
+    type: 3}
+  finalZoneRed: {fileID: -2690748073641221827, guid: 5cc44a37b1e7c2b4f9df8b0b26aeec90,
+    type: 3}
+  finalZoneYellow: {fileID: -6069894775924641020, guid: 00db72afec4972948abf722db5d380f5,
+    type: 3}
+  finalZoneGreen: {fileID: 6404520105889093478, guid: b437aa25ade8108488ce29da3be3d9ff,
+    type: 3}
+  finalZoneBlue: {fileID: -2675260156063365003, guid: b323a26387d741f4fa94e8dbff254a28,
+    type: 3}
+  cell: {fileID: -8714432827993195640, guid: 61283ffa7d1e5604f861e8df3c5cd3f1, type: 3}
+  piece: {fileID: 5401014204710138995, guid: f898ac4dbcf6cd9418e71376c5f149e2, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf68751b213a4573a7d4121b5079844e, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  redActive: 1
+  isRedPlayerControlled: 1
+  redPlayerType: 0
+  redName: 
+  blueActive: 1
+  isBluePlayerControlled: 1
+  bluePlayerType: 1
+  blueName: 
+  greenActive: 1
+  isGreenPlayerControlled: 1
+  greenPlayerType: 2
+  greenName: 
+  yellowActive: 1
+  isYellowPlayerControlled: 1
+  yellowPlayerType: 3
+  yellowName: 
